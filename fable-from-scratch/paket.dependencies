@@ -1,0 +1,5 @@
+source https://api.nuget.org/v3/index.json
+
+nuget Fable.Core
+nuget FSharp.Core
+nuget Fable.Import.Browser
